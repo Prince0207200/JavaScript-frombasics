@@ -11,3 +11,5 @@ console.log(a.split("-"));
 console.log(a.includes("do"));
 console.log(a.replace("-","@"));
 console.log(a.replaceAll("-","@"));
+let s=a.substring(0,5);
+console.log(s);
