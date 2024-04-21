@@ -7,8 +7,8 @@ const user={
     name: "supla",
     class: 12,
     id: 1
-};
-function finf(user){
-    console.log(`name is ${user.name} and class is ${user.class} f`);
-};
-finf();
+}
+function finf(user1){
+    console.log(`name is ${user1.name} and class is ${user1.class} f`);
+}
+finf(user);
